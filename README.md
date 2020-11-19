@@ -1,8 +1,8 @@
 # Customer Churn Analysis
 ### This tutorial explains how to set up and run Jupyter Notebooks from within IBM® Watson™ Studio. We start with a data set for customer churn that is available on Kaggle. 
 
-Sign up/login into IBM Cloud: http://ibm.biz/JupyterML
-Link to follow the tutorial: https://developer.ibm.com/tutorials/watson-studio-using-jupyter-notebook/
+1. Sign up/login into IBM Cloud: http://ibm.biz/JupyterML
+2. Link to follow the tutorial: https://developer.ibm.com/tutorials/watson-studio-using-jupyter-notebook/
 
 The data set has a corresponding Customer Churn Analysis Jupyter Notebook (originally developed by Sandip Datta), which shows the archetypical steps in developing a machine learning model by going through the following essential steps:
 
